@@ -10,7 +10,7 @@ Wireless power transmission (WPT) encompasses several modalities, each suited fo
 
 #
 
-![Levitation Lab](https://github.com/user-attachments/assets/8e976621-c4ac-463b-a04c-b27b7ed3cffa)
+![Human Levitation Lab Concept](https://github.com/user-attachments/assets/cb69227d-225a-4568-8880-ff62fcf21493)
 
 Human levitation, as commonly imagined in science fiction and popular culture, is not currently possible through conventional means due to the constraints of physics. However, certain technologies can create levitation-like effects. Magnetic levitation (maglev) is used in some transportation systems, like trains, and involves using magnetic fields to lift and propel objects. Acoustic levitation employs sound waves to suspend small objects. Electrostatic and aerodynamic levitation are other experimental methods. While these technologies offer intriguing possibilities, they are far from enabling the kind of human levitation seen in fictional contexts.
 
