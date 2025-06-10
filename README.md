@@ -23,6 +23,8 @@ Human levitation, as commonly imagined in science fiction and popular culture, i
 Using magnetic levitation (maglev) is a feasible method for achieving levitation in a laboratory setting. It works by using magnetic fields to lift and stabilize objects without physical contact, making it a clean and precise technique. In a lab, this could involve superconducting magnets and cryogenic systems to achieve the necessary conditions for stable levitation. While maglev technology is already used in applications like high-speed trains, adapting it for human levitation would require overcoming significant technical challenges, including generating sufficient lift and ensuring safety and stability for the human subject.
 
 #
+![Maglev Hubs](https://github.com/user-attachments/assets/9bb64e6d-cdc9-4336-b563-c6956201e2e9)
+#
 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
 <br>
