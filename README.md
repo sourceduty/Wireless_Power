@@ -6,7 +6,7 @@ Wireless power transmission (WPT) encompasses several modalities, each suited fo
 
 ![Wireless Tesla Wand](https://github.com/user-attachments/assets/f266d6d9-3d45-4e6a-83fa-30373ea2e79b)
 
-The Wireless Tesla Wand is a sleek and modern design that bridges the gap between historical scientific innovation and futuristic technology. The wand, with its metallic finish and streamlined build, is reminiscent of the Tesla coil, an invention by the renowned scientist Nikola Tesla. The spherical top of the wand, emitting visible electrical arcs, signifies its purpose of generating and controlling wireless electrical energy. This design is not only visually striking but also suggests a high degree of functionality and innovation, promising a novel way to manipulate electrical power without the need for direct connections.
+The Wireless Tesla Wand is a sleek and modern sci-fi design that bridges the gap between historical scientific innovation and futuristic technology. The wand, with its metallic finish and streamlined build, is reminiscent of the Tesla coil, an invention by the renowned scientist Nikola Tesla. The spherical top of the wand, emitting visible electrical arcs, signifies its purpose of generating and controlling wireless electrical energy. This design is not only visually striking but also suggests a high degree of functionality and innovation, promising a novel way to manipulate electrical power without the need for direct connections.
 
 #
 
