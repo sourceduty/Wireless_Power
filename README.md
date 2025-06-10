@@ -19,3 +19,13 @@ Using magnetic levitation (maglev) is a feasible method for achieving levitation
 #
 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
+<br>
+[Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
+<br>
+[Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
+<br>
+[Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
+<br>
+[Thermoelectric System](https://chatgpt.com/g/g-67f13edbb8ac8191859ce5f88d3d5c93-thermoelectric-system)
+<br>
+[Electromotive Modelling](https://chatgpt.com/g/g-675e1a6a20b48191a67d422a7e5666f6-electromotive-modelling)
