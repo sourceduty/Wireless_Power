@@ -24,7 +24,7 @@ Using magnetic levitation (maglev) is a feasible method for achieving levitation
 
 #
 
-![Wireless Lighting](https://github.com/user-attachments/assets/9559724b-cf29-4124-a419-7bcfa46a2b4c)
+![Wireless Lighting](https://github.com/user-attachments/assets/fe110421-a9c9-423c-bf1c-eb7050fe6a18)
 
 The patent US9065423B2, titled "Wireless Energy Distribution System", describes a floor-integrated system that uses resonant inductive coupling to wirelessly transmit power to nearby devices, eliminating the need for cords or direct connections. This approach enables dynamic power delivery across tiled surfaces, supporting the operation of lighting, appliances, or electronics based on their position. Similar patents have explored wireless energy transfer through walls, furniture, and architectural elements, such as US20100019761A1 (conductive surface power transmission) and US10211668B2 (modular wireless charging panels). Collectively, these innovations aim to create ambient power environments, especially useful for smart homes, robotics, and IoT systems—an area with significant synergy to platforms like Sourceduty’s Navisol and Signal Optimate, which rely on logic-directed autonomy and dynamic infrastructure adaptation.
 
