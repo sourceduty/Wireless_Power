@@ -30,6 +30,7 @@ The patent US9065423B2, titled "Wireless Energy Distribution System", describes 
 
 #
 ![Maglev Hubs](https://github.com/user-attachments/assets/9bb64e6d-cdc9-4336-b563-c6956201e2e9)
+![More Wi-Fi Nodes](https://github.com/user-attachments/assets/46eaef42-935a-416f-8692-53b1affd9c59)
 #
 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
