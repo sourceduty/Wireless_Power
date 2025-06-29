@@ -48,3 +48,5 @@ Alex: _I have an unpublished private project planned for the future that holds i
 [Thermoelectric System](https://chatgpt.com/g/g-67f13edbb8ac8191859ce5f88d3d5c93-thermoelectric-system)
 <br>
 [Electromotive Modelling](https://chatgpt.com/g/g-675e1a6a20b48191a67d422a7e5666f6-electromotive-modelling)
+<br>
+[SES Motor](https://github.com/sourceduty/Self-Excited_Motor)
